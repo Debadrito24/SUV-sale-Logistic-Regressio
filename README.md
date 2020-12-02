@@ -1,2 +1,2 @@
-# SUV-sale-Logistic-Regressio
+# SUV-sale-Logistic-Regression
 Logistic Regression on Suv Sales
